@@ -42,7 +42,7 @@ var TokenAutocomplete = /** @class */ (function () {
             name: '',
             selector: '',
             noMatchesText: null,
-            placeholderText: 'enter some text',
+            placeholderText: 'начните вводить',
             initialTokens: null,
             initialSuggestions: null,
             tokenRenderer: TokenAutocomplete.MultiSelect.defaultRenderer,
